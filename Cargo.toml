@@ -6,4 +6,4 @@ description = "Get bitcoin price on the command line"
 license = "MIT"
 
 [dependencies]
-bitcoin-price = "0.1.0"
+bitcoin-price = "0.1.1"
